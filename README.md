@@ -21,14 +21,14 @@ Class project to create a back end for my e-commerce website that uses the lates
 - express
 - sequelize
 - dotenv
-- bcrypt
 - mysql 2
 - javaScript 
 - mysql
 
 ## Installation
-To run this program you will need to install the npm node js, express, sequelize, dotenv, bcrypt and mysql2.
+To run this program you will need to install the npm node js, express, sequelize, dotenv, and mysql2.
 You will also need a mysql database.
+Run the node seeds/index.js to seed the database
 
 
 # link to site
