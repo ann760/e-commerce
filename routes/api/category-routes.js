@@ -94,7 +94,7 @@ router.delete("/:id", (req, res) => {
     },
   })
     .then((dbCategory) => {
-      if (!dbCategory {
+      if (!dbCategory) {
         res.status(404).json({ message: "No user found with this id" });
         return;
       }
