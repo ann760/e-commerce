@@ -36,4 +36,4 @@ Run the node seeds/index.js to seed the database
 
 ## Author
 * [Ann-Marie Orozco](ann760.github.io/myportfolio/) - 
-* [Git Repository](https://github.com/ann760/u-develop-it)
+* [Git Repository](https://github.com/ann760)
